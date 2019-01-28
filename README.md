@@ -1,7 +1,7 @@
 # DevOps [Terraform-Box]
 * A vagrant project with an ubuntu box with the tools needed to do DevOps
 
-# tools included
+# Tools included [This script include below tool]
 * Terraform
 * AWS CLI
 * Ansible
