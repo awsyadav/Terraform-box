@@ -1,4 +1,4 @@
-# DevOps box
+# DevOps [Terraform-Box]
 * A vagrant project with an ubuntu box with the tools needed to do DevOps
 
 # tools included
